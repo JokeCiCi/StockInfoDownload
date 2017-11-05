@@ -1,0 +1,11 @@
+S:\StockInfoSystem\StockInfoDownload\StockInfoDownload\bin\Debug\StockInfoDownload.exe
+S:\StockInfoSystem\StockInfoDownload\StockInfoDownload\bin\Debug\StockInfoDownload.pdb
+S:\StockInfoSystem\StockInfoDownload\StockInfoDownload\bin\Debug\Newtonsoft.Json.dll
+S:\StockInfoSystem\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.Properties.Resources.resources
+S:\StockInfoSystem\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.UploadForm.resources
+S:\StockInfoSystem\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.csproj.GenerateResource.Cache
+S:\StockInfoSystem\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.exe
+S:\StockInfoSystem\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.pdb
+S:\StockInfoSystem\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.csprojResolveAssemblyReference.cache
+S:\StockInfoSystem\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.BackGroundForm.resources
+S:\StockInfoSystem\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.Main.resources
