@@ -128,7 +128,7 @@
             // 
             // Get5MinTimer
             // 
-            this.Get5MinTimer.Interval = 300000;
+            this.Get5MinTimer.Interval = 60000;
             this.Get5MinTimer.Tick += new System.EventHandler(this.Get5MinTimer_Tick);
             // 
             // bk_GetStock5MinInfoSH

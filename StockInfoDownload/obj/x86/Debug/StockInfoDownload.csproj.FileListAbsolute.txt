@@ -9,3 +9,15 @@ S:\StockInfoSystem\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDo
 S:\StockInfoSystem\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.csprojResolveAssemblyReference.cache
 S:\StockInfoSystem\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.BackGroundForm.resources
 S:\StockInfoSystem\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.Main.resources
+S:\StockInfoSystem\StockDownLoad\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.exe
+S:\StockInfoSystem\StockDownLoad\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.pdb
+S:\StockInfoSystem\StockDownLoad\StockInfoDownload\StockInfoDownload\bin\Debug\StockInfoDownload.exe
+S:\StockInfoSystem\StockDownLoad\StockInfoDownload\StockInfoDownload\bin\Debug\StockInfoDownload.pdb
+S:\StockInfoSystem\StockDownLoad\StockInfoDownload\StockInfoDownload\bin\Debug\Newtonsoft.Json.dll
+S:\StockInfoSystem\StockDownLoad\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.csprojResolveAssemblyReference.cache
+S:\StockInfoSystem\StockDownLoad\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.BackGroundForm.resources
+S:\StockInfoSystem\StockDownLoad\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.Form1.resources
+S:\StockInfoSystem\StockDownLoad\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.Main.resources
+S:\StockInfoSystem\StockDownLoad\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.Properties.Resources.resources
+S:\StockInfoSystem\StockDownLoad\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.UploadForm.resources
+S:\StockInfoSystem\StockDownLoad\StockInfoDownload\StockInfoDownload\obj\x86\Debug\StockInfoDownload.csproj.GenerateResource.Cache
